@@ -6,7 +6,7 @@ import javascript from './images/javascript.webp'
 import node from './images/nodejs.png'
 import react from './images/react.jpg'
 import vue from './images/vue.jpeg'
-
+import './Course.css';
 const courseMap =  {
     Angular,
     bootstrap,
