@@ -23,7 +23,7 @@ function Course({courseName}) {
     // console.log(courseName)
     return ( 
         <div>
-            <img src={courseMap[courseName]}alt="course" />
+            <img className='image' src={courseMap[courseName]}alt="course" />
         </div> 
     );
 }
